@@ -1,0 +1,3 @@
+[submodule "drishti-io"]
+	path = drishti-io
+	url = https://github.com/hpc-io/drishti-io
