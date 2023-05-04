@@ -6,6 +6,10 @@
 
 Dristhi is a novel interactive web-based analysis framework to visualize I/O traces, highlight bottlenecks, and help understand the I/O behavior of scientific applications. Drishti aims to fill the gap between the trace collection, analysis, and tuning phases. The framework contains an interactive I/O trace analysis component for end-users to visually inspect their applications' I/O behavior, focusing on areas of interest and getting a clear picture of common root causes of I/O performance bottlenecks. Based on the automatic detection of I/O performance bottlenecks, our framework maps numerous common and well-known bottlenecks and their solution recommendations that can be implemented by users.
 
+<p align="center">
+  <img src="https://github.com/hpc-io/drishti/blob/master/images/drishti-diagram.svg?raw=true" alt="Drishti"/>
+</p>
+
 ---
 
 ### Copyright Notice
