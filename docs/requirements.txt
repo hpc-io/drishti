@@ -1,0 +1,4 @@
+urllib3<2
+sphinxemoji
+sphinx_rtd_theme
+sphinx-copybutton
